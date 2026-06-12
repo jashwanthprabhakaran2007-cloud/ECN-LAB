@@ -24,8 +24,11 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1921" height="1441" alt="image" src="https://github.com/user-attachments/assets/7e9daaa7-4ad0-4044-8f82-cf20cb480241" />
 
 
+**OBSERVATION:**
+![Uploading image.png…]()
 
 
 
