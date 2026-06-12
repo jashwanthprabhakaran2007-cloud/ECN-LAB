@@ -28,7 +28,9 @@
 
 
 **OBSERVATION:**
-![Uploading image.png…]()
+
+
+<img width="1934" height="1450" alt="image" src="https://github.com/user-attachments/assets/1fb035f2-b23c-40b9-bc54-1e2560132daf" />
 
 
 
